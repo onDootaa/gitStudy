@@ -1,2 +1,3 @@
 hello world!
 I'm studing git now
+add a new line 
